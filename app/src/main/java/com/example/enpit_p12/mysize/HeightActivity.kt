@@ -60,6 +60,7 @@ class HeightActivity : AppCompatActivity() {
 
                     override
                     fun onStopTrackingTouch(seekBar: SeekBar?) {
+
                     }
                 })
     }
